@@ -1,2 +1,4 @@
  today is thursday
 Hello! Welcome to the Devops World
+today is a thursday
+Hello
